@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.com/"
+baseurl = "https://cerpen.netlify.app/"
 title = "Hugo Story Theme"
 paginate = 5
 buildFuture = true
